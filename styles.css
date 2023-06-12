@@ -26,3 +26,12 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.card-content button{
+    background-color: #ff8974;
+    border-radius: 15px;
+    width: 54%;
+    height: 38px;
+    border: none;
+}
+
